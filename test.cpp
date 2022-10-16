@@ -1,9 +1,9 @@
 #include <iostream>
-using namespace std;
+// using namespace std;
 
 int main(){
 
-  cout << "rezwan rahim";
+ std::cout << "rezwan rahim";
   return 0;
 }
 
